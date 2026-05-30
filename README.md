@@ -16,7 +16,7 @@ Olist is a Brazilian e-commerce marketplace connecting small businesses to major
 
 ## Dashboard
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](Images/dashboard_overview.png)
 
 ---
 
@@ -46,16 +46,16 @@ Fashion: Underwear & Beach shows the biggest satisfaction drop when late (2.34-p
 ## Charts
 
 ### Satisfaction Cliff — How delays destroy review scores
-![Satisfaction Cliff](images/satisfaction_cliff.png)
+![Satisfaction Cliff](Images/satisfaction_cliff.png)
 
 ### Delivery Risk by State — Northeast Brazil most affected
-![Brazil Map](images/brazil_map.png)
+![Brazil Map](Images/brazil_map.png)
 
 ### Monthly Trend — Two operational crises in the data
-![Monthly Trend](images/monthly_trend.png)
+![Monthly Trend](Images/monthly_trend.png)
 
 ### Top 15 Categories by Late Delivery Rate
-![Category Risk](images/category_risk.png)
+![Category Risk](Images/category_risk.png)
 
 ---
 
